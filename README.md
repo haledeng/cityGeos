@@ -1,4 +1,5 @@
-cityGeos
+全国市区地图坐标系
 ========
 
-City Coordinate
+调用方式
+    this.cityGeos
